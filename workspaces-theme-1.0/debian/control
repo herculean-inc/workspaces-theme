@@ -9,6 +9,6 @@ Homepage: https://github.com/herculean-inc/workspaces-theme
 
 Package: workspaces-theme
 Architecture: all
-Depends: fonts-roboto, pop-gnome-shell-theme, workspaces-gtk-theme, papirus-icon-theme, pop-sound-theme
-Conflicts: system76-pop-theme
+Depends: fonts-roboto, workspaces-gnome-shell-theme, workspaces-gtk-theme, papirus-icon-theme, workspaces-sound-theme
+Conflicts: system76-poppaces
 Description: Workspaces Theme Metapackage

@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 02 Feb 2020 18:16:44 -0600
+Source: workspaces-theme
+Architecture: source
+Version: 1.0.4ubuntu3
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-theme (1.0.4ubuntu3) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ fe49eeead4f1b6528dd9670083f79adbfa10fb79 1576 workspaces-theme_1.0.4ubuntu3.dsc
+ d41feb588958a9a7425e38d9dd9ab3ac8789d02c 12548 workspaces-theme_1.0.4ubuntu3.tar.xz
+ 876c51e56022960422377e94be29d2566e88cfe7 6141 workspaces-theme_1.0.4ubuntu3_source.buildinfo
+Checksums-Sha256:
+ 51077f4eaa5fd3f0e7608f18430fa41070bf92d8042cc1c826542306efc10de1 1576 workspaces-theme_1.0.4ubuntu3.dsc
+ 989f91d2351485461e610a8c9dc2516dba6471bfd4841fc95317b4a652130416 12548 workspaces-theme_1.0.4ubuntu3.tar.xz
+ c1eb5fc15de351585f851c225cca56c2ce814b8fb4c8a4e86f238a0cfe7d9657 6141 workspaces-theme_1.0.4ubuntu3_source.buildinfo
+Files:
+ ccda712a0ad43ef3ffc9a28e849a17d6 1576 gnome optional workspaces-theme_1.0.4ubuntu3.dsc
+ 14c3d9d7d12d9fa0acce26c2d4c6dc6c 12548 gnome optional workspaces-theme_1.0.4ubuntu3.tar.xz
+ 5da8557d89a8534215d281496a09d5ff 6141 gnome optional workspaces-theme_1.0.4ubuntu3_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43Zm0ACgkQ4dwtItTb
+NMgAIxAAm15EZ6680QLiIcnnJ9aS5BXrxoa9PMcrk3JmsqISLKIVotUtDMwwruMI
+M86pE76pnyIq7I/8tFr1xHBAoDZxk02ZdFkLOIkqC2Wh2xXqvC7KsQUrovWCgyU0
+uPimNfGkQZno3h23EGFFKluIEWGf7VvRAbcuPs7+Kjm6h7oCwQu+CUS/f6WQtisb
+SE0X+1JB80iLh/7ZRShFmgEHcU8sjk50/ZGFoL4/F5ThziVpWGCQPtVEXRH0wJmn
+HGclhA5HWoZuGZxg8ytW5yAEKimg3ffXZJYp9BgnAkr1+w6qT/V1sV1ydSrKjSea
+M5A9DFrCJyVcZKQaUDyyS/Mub1shJHmhv8/zQInqLbzmWdSNAzPU9gbk1mTdJYUm
+2Ew1JoBqH44Xrs68DQL6MONiJIdqDktlIuq3DdDXfa2T4n7DSUPy7POOTqwDAQbD
++cHZROShzR841obIr4gPTqI+s8cl/tY2+IG1D06XBPJRvxsTmksGEjBLjWscJfCs
+XitWd/E08plsZhvsV2/iLBHj4nVL7fXVtEx4ap3gQvlF6vEonEbaWsy0zkdnFsY0
+mVZ5lwLSIKOS7ReWWcE7oMZq/Xomgh0fGcubC6SxUUhP1gOGMf8/aE4hsaL84GDf
+Yrz30VloYmF+4ZSQrfZkeMVtowvWckfsgMl3hrmGx6yK7u5vdec=
+=7iT+
+-----END PGP SIGNATURE-----
