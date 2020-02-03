@@ -1,0 +1,14 @@
+Source: workspaces-theme
+Section: gnome
+Priority: optional
+Maintainer: Herculean Inc <hello@hercules.dev>
+Uploaders: Herculean Inc <hello@hercules.dev>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 1.0.0
+Homepage: https://github.com/herculean-inc/workspaces-theme
+
+Package: workspaces-theme
+Architecture: all
+Depends: fonts-roboto, pop-gnome-shell-theme, workspaces-gtk-theme, papirus-icon-theme, pop-sound-theme
+Conflicts: system76-pop-theme
+Description: Workspaces Theme Metapackage
