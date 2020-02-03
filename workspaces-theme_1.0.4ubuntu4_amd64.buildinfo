@@ -2,19 +2,19 @@ Format: 1.0
 Source: workspaces-theme
 Binary: workspaces-theme
 Architecture: all source
-Version: 1.0.4ubuntu3
+Version: 1.0.4ubuntu4
 Checksums-Md5:
- dbb4cb77dba4d623bd56c3325839d21f 693 workspaces-theme_1.0.4ubuntu3.dsc
- a3ef3fb86ae02e99d63923272f2a6df1 1600 workspaces-theme_1.0.4ubuntu3_all.deb
+ 393eb1d05ab94ee298a0a69d1bb0af5a 695 workspaces-theme_1.0.4ubuntu4.dsc
+ 9f80b27c9a54f98f90cbfbf2f35b84a8 1608 workspaces-theme_1.0.4ubuntu4_all.deb
 Checksums-Sha1:
- c031ba2997d32c45944264cd15badd175716ae42 693 workspaces-theme_1.0.4ubuntu3.dsc
- cc905a9e8482fcaa8d3340e6fb59bcaaec4ad1a9 1600 workspaces-theme_1.0.4ubuntu3_all.deb
+ 7b3566fa5c6990c076d56106787abcd3dc71cd47 695 workspaces-theme_1.0.4ubuntu4.dsc
+ 469c29846c4c4f54e0242d946fa7ef7ad2a32a97 1608 workspaces-theme_1.0.4ubuntu4_all.deb
 Checksums-Sha256:
- b73c9cdb4ac037ac6c4ca426b42ecfc870020fd64d9f14e15bbb5ed580dbd05b 693 workspaces-theme_1.0.4ubuntu3.dsc
- b3826ec54748ba8e2e60e11a4d7c366b6ba9b52032af0155f6d3bec528a5a0a2 1600 workspaces-theme_1.0.4ubuntu3_all.deb
+ 5d3ab07b3da4456766463a7c6da4d0c7069ddbf0e6c66321fe2bc209d7d872f7 695 workspaces-theme_1.0.4ubuntu4.dsc
+ 2e35843f6937aa5c4484424fb4df3641538409d53c405f3fc6823f060db68896 1608 workspaces-theme_1.0.4ubuntu4_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 02 Feb 2020 18:16:53 -0600
+Build-Date: Sun, 02 Feb 2020 19:13:15 -0600
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-configs
@@ -171,4 +171,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1580689004"
+ SOURCE_DATE_EPOCH="1580692389"

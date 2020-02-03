@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 02 Feb 2020 19:13:09 -0600
+Source: workspaces-theme
+Binary: workspaces-theme
+Architecture: source all
+Version: 1.0.4ubuntu4
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Description:
+ workspaces-theme - Workspaces Theme Metapackage
+Changes:
+ workspaces-theme (1.0.4ubuntu4) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 7b3566fa5c6990c076d56106787abcd3dc71cd47 695 workspaces-theme_1.0.4ubuntu4.dsc
+ b50bb616c1f02c1eac4393bb7de2686706bfbedc 12556 workspaces-theme_1.0.4ubuntu4.tar.xz
+ 469c29846c4c4f54e0242d946fa7ef7ad2a32a97 1608 workspaces-theme_1.0.4ubuntu4_all.deb
+ 0d5f7e11286c8ceb9481125328e6772cca81f425 5530 workspaces-theme_1.0.4ubuntu4_amd64.buildinfo
+Checksums-Sha256:
+ 5d3ab07b3da4456766463a7c6da4d0c7069ddbf0e6c66321fe2bc209d7d872f7 695 workspaces-theme_1.0.4ubuntu4.dsc
+ 2e61faacd8c27b15bdae27796db1c7b4a05dbb27eb50c3445772b50f94147e35 12556 workspaces-theme_1.0.4ubuntu4.tar.xz
+ 2e35843f6937aa5c4484424fb4df3641538409d53c405f3fc6823f060db68896 1608 workspaces-theme_1.0.4ubuntu4_all.deb
+ 3c90266f7d8fe5f87a01c2798f6662335a5fc9ce8144194f0431eb5d1d4d5b7c 5530 workspaces-theme_1.0.4ubuntu4_amd64.buildinfo
+Files:
+ 393eb1d05ab94ee298a0a69d1bb0af5a 695 gnome optional workspaces-theme_1.0.4ubuntu4.dsc
+ 295283b8d00f7389d93c1fb083b55422 12556 gnome optional workspaces-theme_1.0.4ubuntu4.tar.xz
+ 9f80b27c9a54f98f90cbfbf2f35b84a8 1608 gnome optional workspaces-theme_1.0.4ubuntu4_all.deb
+ 494a2f9e62f00293c906e01c436453ba 5530 gnome optional workspaces-theme_1.0.4ubuntu4_amd64.buildinfo

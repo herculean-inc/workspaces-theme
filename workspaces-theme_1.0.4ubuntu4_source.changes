@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 02 Feb 2020 19:13:09 -0600
+Source: workspaces-theme
+Architecture: source
+Version: 1.0.4ubuntu4
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-theme (1.0.4ubuntu4) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 1c3b2eee21c29f0affbcf06f29e2120f8a30f46f 1578 workspaces-theme_1.0.4ubuntu4.dsc
+ 0b6cfc16dc364a224eaed605d36aa782a5825877 12564 workspaces-theme_1.0.4ubuntu4.tar.xz
+ 29df6911e5f42fd012dfb6cfe614dd4ae0a1c27a 6141 workspaces-theme_1.0.4ubuntu4_source.buildinfo
+Checksums-Sha256:
+ 22802cefac9610a26eeeea0811866013ea02bcb493cd42b05321cd93f0cc914a 1578 workspaces-theme_1.0.4ubuntu4.dsc
+ 87d7a68a0fc28209c4b0a96f0f51bd8aab82c8cca2db64c804a195716a9a232f 12564 workspaces-theme_1.0.4ubuntu4.tar.xz
+ eead63c3b6c58e07e7de587d5db98a95fab2064592ef6373d3e4e9e832e84e2e 6141 workspaces-theme_1.0.4ubuntu4_source.buildinfo
+Files:
+ 0a2ad053a27373ef531f30470d643938 1578 gnome optional workspaces-theme_1.0.4ubuntu4.dsc
+ c6c56c3d749c8e92f73b8f2a9993936e 12564 gnome optional workspaces-theme_1.0.4ubuntu4.tar.xz
+ c017c9ef63116c408d0ecff164e2eab0 6141 gnome optional workspaces-theme_1.0.4ubuntu4_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43c6YACgkQ4dwtItTb
+NMjHCw/9G8lL8lBmi7evjEwP3U9+V/syU7Jv3vC6AuFwMa2qiCNyzGoW6FR2WMz+
+LbfFSLytkBHtp2aS/uMuflIzknE0Nh5zcHzsrBC3Cphm2DmfqmPSKEmLHuVtbB6/
+KmYCceYU5pe0N1ppp8rLghrptUNFtwExu6BOQ65frHjg9Cyi3gVbgUmN016EtQlC
+PAhSAC4o62qq7M2oIV9VGdWNP2qSKvaiAHChMxn2uaIlpNS5JOe1Fd9eWV0W7JwN
+gTI86KsWo0wvzs4uq8Ew1O+sYhc/bRZVFLRKjDzvb3pKOOok7Xl2jJ9KQM3nStrb
+X1POuzHKSmM/q5f1j2OAcTnfFmjKp6z7l1SzC9AV7LCQoad0tuOsFUMHXBepIk7M
+Vok/BQVSjIKjwKx1JvlJSPtmmGctfLvfjI/bUIh/xr2Ayn+2REr9Onon586j6jG5
+GPp+e+eOmZcersIgkLqaqeFvwQLv6xJknfuKMDZIgUjdgr4yE4j17pX3qmofR0JO
+4zGCdWDWSgVEugLxk0VwGOkm/aJijj/RnKfu+vIKWPbJz7exy09QCbZTJ3hUOrwu
+RMWjYzYWA2m07VziGv51gygB8EOlXvRhow17+fAypOA1sKYQ7V8KS0F1SYZZeoi5
+V8iN5tAQb0tJkFzJP+1OHyGK99XWzwTHXPJnTgzH5pS/Q4hGG30=
+=a/Od
+-----END PGP SIGNATURE-----

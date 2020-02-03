@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui
 dpkg-buildpackage: info: source package workspaces-theme
-dpkg-buildpackage: info: source version 1.0.4ubuntu3
+dpkg-buildpackage: info: source version 1.0.4ubuntu4
 dpkg-buildpackage: info: source distribution eoan
 dpkg-buildpackage: info: source changed by Herculean Inc <hello@hercules.dev>
  dpkg-source --before-build .
@@ -12,8 +12,8 @@ dh clean
 dpkg-source: warning: Version number suggests Ubuntu changes, but Maintainer: does not have Ubuntu address
 dpkg-source: warning: Version number suggests Ubuntu changes, but there is no XSBC-Original-Maintainer field
 dpkg-source: info: using source format '3.0 (native)'
-dpkg-source: info: building workspaces-theme in workspaces-theme_1.0.4ubuntu3.tar.xz
-dpkg-source: info: building workspaces-theme in workspaces-theme_1.0.4ubuntu3.dsc
+dpkg-source: info: building workspaces-theme in workspaces-theme_1.0.4ubuntu4.tar.xz
+dpkg-source: info: building workspaces-theme in workspaces-theme_1.0.4ubuntu4.dsc
  debian/rules build
 dh build
    dh_update_autotools_config
@@ -33,17 +33,16 @@ dh binary
    dh_gencontrol
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package 'workspaces-theme' in '../workspaces-theme_1.0.4ubuntu3_all.deb'.
+dpkg-deb: building package 'workspaces-theme' in '../workspaces-theme_1.0.4ubuntu4_all.deb'.
  dpkg-genbuildinfo
- dpkg-genchanges  >../workspaces-theme_1.0.4ubuntu3_amd64.changes
+ dpkg-genchanges  >../workspaces-theme_1.0.4ubuntu4_amd64.changes
 dpkg-genchanges: info: including full source code in upload
  dpkg-source --after-build .
 dpkg-buildpackage: info: full upload; Debian-native package (full source is included)
-Now running lintian workspaces-theme_1.0.4ubuntu3_amd64.changes ...
+Now running lintian workspaces-theme_1.0.4ubuntu4_amd64.changes ...
 W: workspaces-theme source: debhelper-but-no-misc-depends workspaces-theme
 W: workspaces-theme source: missing-license-paragraph-in-dep5-copyright gpl-3+ (paragraph at line 5)
 W: workspaces-theme source: debian-rules-sets-DEB_BUILD_OPTIONS line 6
 W: workspaces-theme source: maintainer-also-in-uploaders
-E: workspaces-theme source: invalid-standards-version 1.0.0
 E: workspaces-theme: extended-description-is-empty
 Finished running lintian.
