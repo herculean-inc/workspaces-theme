@@ -1,0 +1,11 @@
+Package: workspaces-theme
+Version: 1.0.4ubuntu2
+Architecture: all
+Maintainer: Herculean Inc <hello@hercules.dev>
+Installed-Size: 8
+Depends: fonts-roboto, pop-gnome-shell-theme, workspaces-gtk-theme, papirus-icon-theme, pop-sound-theme
+Conflicts: system76-pop-theme
+Section: gnome
+Priority: optional
+Homepage: https://github.com/herculean-inc/workspaces-theme
+Description: Workspaces Theme Metapackage
